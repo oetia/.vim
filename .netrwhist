@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/elim-mbp-01/.vim'
+let g:netrw_dirhist_7='/Users/elim-mbp-01/Documents/2023/cn'
 let g:netrw_dirhist_6='/Users/elim-mbp-01/Documents/2023'
 let g:netrw_dirhist_5='/Users/elim-mbp-01/Documents/novels/kidnapped_dragons'
 let g:netrw_dirhist_4='/Users/elim-mbp-01/Documents/writing/isekai_20221220.txt'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_2='/Users/elim-mbp-01'
 let g:netrw_dirhist_1='/Users/elim-mbp-01/xgen'
 let g:netrw_dirhist_0='/Users/elim-mbp-01'
 let g:netrw_dirhist_9='/Users/elim-mbp-01/.vim'
-let g:netrw_dirhist_8='/Users/elim-mbp-01'
-let g:netrw_dirhist_7='/Users/elim-mbp-01/.vim'

@@ -28,6 +28,10 @@ nmap k gk
 vmap j gj
 vmap k gk
 
+""" Faster Movement """
+nmap <C-j> 5j
+nmap <C-k> 5k
+
 """ <ESC> Alternatives """
 imap JK <Esc>
 imap KJ <Esc>
